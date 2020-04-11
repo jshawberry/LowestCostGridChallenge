@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCostGridChallengeConsole", "LowestCostGridChallengeConsole\LowestCostGridChallengeConsole.csproj", "{A2DF8951-B3E4-45C7-A399-8ABB7837B431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCostTests", "LowestCostTests\LowestCostTests.csproj", "{6C4284E8-36C6-4506-9426-D2E165ADA67B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DF8951-B3E4-45C7-A399-8ABB7837B431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DF8951-B3E4-45C7-A399-8ABB7837B431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DF8951-B3E4-45C7-A399-8ABB7837B431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DF8951-B3E4-45C7-A399-8ABB7837B431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4284E8-36C6-4506-9426-D2E165ADA67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4284E8-36C6-4506-9426-D2E165ADA67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4284E8-36C6-4506-9426-D2E165ADA67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4284E8-36C6-4506-9426-D2E165ADA67B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
